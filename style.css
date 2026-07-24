@@ -3,7 +3,6 @@ img {
 }
 
 body {
-  text-size: 20px;
-  text-color: blue;
+  font-size: 20px;
+  color: blue;
 }
-
